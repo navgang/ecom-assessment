@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "The Long Road", "year": 2019, "rating": 7.4, "genres": ["Drama"], "durationMin": 125 },
+  { "id": 2, "title": "Neon Skies", "year": 2023, "rating": 8.2, "genres": ["Sci-Fi", "Action"], "durationMin": 109 },
+  { "id": 3, "title": "Crimson Harbor", "year": 2015, "rating": 6.8, "genres": ["Thriller"], "durationMin": 98 },
+  { "id": 4, "title": "Tiny Giants", "year": 2020, "rating": 7.9, "genres": ["Documentary"], "durationMin": 81 },
+  { "id": 5, "title": "Paper Planes", "year": 2018, "rating": 6.5, "genres": ["Family"], "durationMin": 92 },
+  { "id": 6, "title": "Silver Valley", "year": 2021, "rating": 7.1, "genres": ["Western", "Drama"], "durationMin": 115 },
+  { "id": 7, "title": "Midnight Circuit", "year": 2024, "rating": 8.5, "genres": ["Action"], "durationMin": 103 },
+  { "id": 8, "title": "Quiet Echoes", "year": 2017, "rating": 7.0, "genres": ["Drama", "Romance"], "durationMin": 110 },
+  { "id": 9, "title": "Starlight Motel", "year": 2012, "rating": 6.2, "genres": ["Comedy"], "durationMin": 88 },
+  { "id": 10, "title": "Hidden Orchard", "year": 2022, "rating": 7.6, "genres": ["Mystery"], "durationMin": 101 },
+  { "id": 11, "title": "Ocean Between", "year": 2016, "rating": 7.3, "genres": ["Drama"], "durationMin": 119 },
+  { "id": 12, "title": "Pixel Quest", "year": 2024, "rating": 8.0, "genres": ["Animation", "Adventure"], "durationMin": 97 }
+]
