@@ -6,6 +6,8 @@ Build a small, single-page React app that lets a user browse a list of movies, w
 
 If you run out of time, commit what you have and add brief TODO notes.
 
+Remember: treat this as you would a real production environment.
+
 Requirements:
 
 1. Project Setup: React hooks only
